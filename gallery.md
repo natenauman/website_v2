@@ -1,8 +1,8 @@
 ---
 layout: page
-title: CV
+title: Gallery
 subtitle: From the pexels folder
-permalink: /cv/
+permalink: /gallery/
 gallery_path: "assets/img/pexels"
 tags: [Page]
 ---
