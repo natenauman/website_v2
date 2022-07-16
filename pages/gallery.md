@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Gallery
-subtitle: Please change this
+title: CV
+subtitle: Yay I'm so happy
 permalink: /gallery/
 gallery_path: "assets/img/pexels"
 tags: [Page]
