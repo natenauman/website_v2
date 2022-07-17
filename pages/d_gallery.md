@@ -2,6 +2,7 @@
 layout: page
 title: Gallery
 subtitle: A brief photo collection
+feature-img: "assets/img/pexels/travel.jpeg"
 permalink: /gallery/
 gallery_path: "assets/img/pexels"
 tags: [Page]
