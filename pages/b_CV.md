@@ -7,4 +7,5 @@ tags: [Page]
 ---
 
 My CV is shown below, please click on the image to download the PDF.
-[![Default Type on Strap blog](https://github.com/Sylhare/Type-on-Strap/blob/master/assets/img/screenshot.png?raw=true)](https://sylhare.github.io/Type-on-Strap/)
+
+[![Default Type on Strap blog](https://github.com/Sylhare/Type-on-Strap/blob/master/assets/img/screenshot.png?raw=true)](https://www.google.com)
