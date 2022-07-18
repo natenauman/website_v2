@@ -2,7 +2,7 @@
 layout: page
 title : Portfolio
 permalink: /portfolio/
-subtitle: "Projects for research and courses"
+subtitle: "Research Projects"
 feature-img: "assets/img/pexels/computer.jpeg"
 tags: [Page]
 ---
