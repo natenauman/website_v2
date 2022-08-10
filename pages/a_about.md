@@ -2,7 +2,7 @@
 layout: page
 title: About
 permalink: /about/
-feature-img: "assets/img/pexels/cape_town.png"
+feature-img: "assets/img/pexels/table_mountain.png"
 tags: [Page]
 ---
 
