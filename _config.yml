@@ -5,8 +5,8 @@ url: "https://natenauman.github.io"
 # THEME-SPECIFIC CONFIGURATION
 title: Nathaniel Nauman                                 # site's title
 description: "Nate Nauman - Research Assistant at Purdue University"       # used by search engines
-avatar: assets/img/triangle.png                         # Empty for no avatar in navbar
-favicon: assets/favicon.ico                             # Icon displayed in the tab
+avatar: assets/img/noon.png                         # Empty for no avatar in navbar
+favicon: assets/noon.ico                             # Icon displayed in the tab
 
 # Header and footer text
 header_text: Hello! I'm Nate Nauman, a research assistant at Purdue University  # Change Blog header text
