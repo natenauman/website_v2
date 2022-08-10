@@ -7,4 +7,4 @@ date: 25 December 2021
 tags: [Lorem, Ipsum]
 ---
 
-Inverse kinematics robotic arm. 
+Inverse kinematics robotic arm.
