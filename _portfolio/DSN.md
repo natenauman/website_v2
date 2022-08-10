@@ -1,0 +1,11 @@
+---
+layout: post
+title: DSN Conference Presentation
+feature-img: "assets/img/portfolio/safe.png"
+img: "assets/img/portfolio/safe.png"
+date: January 2022 - June 2022
+tags: [Ipsum]
+---
+
+
+DSN conference presentation.
