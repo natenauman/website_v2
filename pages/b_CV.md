@@ -2,7 +2,7 @@
 layout: page
 title: CV
 permalink: /CV/
-feature-img: "assets/img/pexels/chaouen.jpeg"
+feature-img: "assets/img/pexels/brooklyn_bridge.jpeg"
 tags: [Page]
 ---
 
