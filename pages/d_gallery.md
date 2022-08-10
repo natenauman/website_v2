@@ -2,7 +2,7 @@
 layout: page
 title: Gallery
 subtitle: Photo Collection
-feature-img: "assets/img/pexels/chefchaouen.jpeg"
+feature-img: "assets/img/pexels/oasis.png"
 permalink: /gallery/
 gallery_path: "assets/img/pexels"
 tags: [Page]
