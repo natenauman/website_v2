@@ -1,8 +1,9 @@
 ---
 layout: post
 title: Soybean Product Innovation
+feature-img: "assets/img/portfolio/soybean.png"
 img: "assets/img/portfolio/soybean.png"
-date: September 2020 - April 2021
+date: April 1, 2021
 tags: [Lorem]
 ---
 
