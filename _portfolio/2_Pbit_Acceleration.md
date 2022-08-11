@@ -1,7 +1,7 @@
 ---
 layout: post
 title: P-Bit Acceleration
-img: "assets/img/portfolio/circus.png"
+img: "assets/img/portfolio/dice.png"
 tags: [Ipsum]
 ---
 
