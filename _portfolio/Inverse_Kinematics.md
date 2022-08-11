@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Inverse Kinematics Robotic Arm
-feature-img: "assets/img/portfolio/cake.png"
+feature-img: "assets/img/portfolio/gears.png"
 img: "assets/img/portfolio/gears.png"
-date: July 2021 - December 2021
+date: July 1, 2021
 tags: [Lorem, Ipsum]
 ---
 
