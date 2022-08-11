@@ -1,7 +1,7 @@
 ---
 layout: post
 title: FPGA USB Transmitter
-img: "assets/img/portfolio/toh.png"
+img: "assets/img/portfolio/usb.png"
 date: January 2021 - May 2021
 ---
 
