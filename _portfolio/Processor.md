@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Multi-Core Processor
-img: "assets/img/portfolio/github.png"
+img: "assets/img/portfolio/processor.png"
 date: Augut 2021 - December 2021
 tags: [Lorem]
 ---
