@@ -1,8 +1,9 @@
 ---
 layout: post
 title: FPGA USB Transmitter
+feature-img: "assets/img/portfolio/usb.png"
 img: "assets/img/portfolio/usb.png"
-date: January 2021 - May 2021
+date: May 1, 2021
 ---
 
 ![image]({{ page.img | relative_url }})
