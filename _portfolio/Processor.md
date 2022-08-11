@@ -1,8 +1,9 @@
 ---
 layout: post
 title: Multi-Core Processor
+feature-img: "assets/img/portfolio/processor.png"
 img: "assets/img/portfolio/processor.png"
-date: Augut 2021 - December 2021
+date: December 1, 2021
 tags: [Lorem]
 ---
 
