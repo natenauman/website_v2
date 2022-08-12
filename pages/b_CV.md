@@ -3,7 +3,7 @@ layout: page
 title: CV
 permalink: /CV/
 feature-img: "assets/img/pexels/blue_city.png"
-tags: [Page]
+tags: [CV]
 ---
 
 Below is my updated one-page CV. To download the document as a PDF, please click on the image or click <a id="raw-url" href="https://raw.githubusercontent.com/natenauman/natenauman.github.io/master/CV_Nauman.pdf">here</a>.
