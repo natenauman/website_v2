@@ -4,10 +4,8 @@ title: P-Bit Acceleration
 feature-img: "assets/img/portfolio/dice.png"
 img: "assets/img/portfolio/dice_icon.png"
 date: May 25, 2022
-tags: [Ipsum]
+tags: [FPGA, pbit]
 ---
-
-![image]({{ page.img | relative_url }})
 
 P-bit acceleration.
 
