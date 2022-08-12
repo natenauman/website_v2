@@ -10,7 +10,7 @@ favicon: assets/noon.ico                             # Icon displayed in the tab
 
 # Header and footer text
 header_text: Hello! I'm Nate Nauman, a research assistant at Purdue University  # Change Blog header text
-header_feature_image: assets/img/header/cinque_terre_big.png
+header_feature_image: assets/img/header/terre.png
 header_feature_image_responsive: true
 footer_text: >
   (765) 413-4228
