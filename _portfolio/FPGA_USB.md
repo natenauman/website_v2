@@ -7,7 +7,5 @@ date: May 1, 2021
 tags: [FPGA]
 ---
 
-![image]({{ page.img | relative_url }})
-
 FPGA USB transmitter.
 
