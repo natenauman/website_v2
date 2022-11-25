@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Research
-permalink: /Research/
+permalink: /research/
 feature-img: "assets/img/pexels/blue_city.png"
 tags: [research]
 ---
