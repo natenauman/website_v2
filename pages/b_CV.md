@@ -1,11 +1,11 @@
 ---
 layout: page
-title: CV
-permalink: /CV/
+title: Research
+permalink: /Research/
 feature-img: "assets/img/pexels/blue_city.png"
-tags: [CV]
+tags: [research]
 ---
 
-Below is my updated one-page CV. To download the document as a PDF, please click on the image or click <a id="raw-url" href="https://raw.githubusercontent.com/natenauman/natenauman.github.io/master/CV_Nauman.pdf">here</a>.
+N. Nauman, R. Wu, and S. Bagchi. Real-time digital filtering for IoT data in programmable network switches. 2022 52nd Annual IEEE/IFIP International Conference on Dependable Systems and Networks - Supplemental Volume (DSN-S), 2022.
 
-[![Default Type on Strap blog](https://github.com/natenauman/natenauman.github.io/blob/master/assets/img/CV_Nauman.png?raw=true)](https://raw.githubusercontent.com/natenauman/natenauman.github.io/master/CV_Nauman.pdf)
+N. Nauman, J. Kaiser, and S. Datta. P-bit and FPGA acceleration of sampling for modeling log-normal colored noise in nonlinear oscillator. Poster presented at: The Elmore ECE Emerging Frontiers Center on the Crossroads of Quantum and AI, 2022.
